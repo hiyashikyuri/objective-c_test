@@ -6,6 +6,17 @@
 //  Copyright © 2017年 大久保将広. All rights reserved.
 
 
+/*
+ * 参考になる記事一覧
+ * Objective-C プログラミング言語( https://developer.apple.com/jp/documentation/ProgrammingWithObjectiveC.pdf )
+ * 型とポインタのおさらい ( http://vivacocoa.jp/objective-c3e/chapter1b.html )
+ * 配列からポインタへ！ (3/5) ( http://libro.tuyano.com/index3?id=543007&page=3 )
+ * ポインタについて ( http://obc-fight.blogspot.jp/2012/05/blog-post_13.html )
+ * オブジェクトのメモリ管理で気をつけること2つだけ ( https://qiita.com/yuch_i/items/0d56abe51b82e6d54e63 )
+ * Objective-C のプロパティ属性のガイドライン ( https://qiita.com/uasi/items/80660f9aa20afaf671f3 )
+ * [iOS][Objective-C] @property の基本まとめ ( https://www.ecoop.net/memo/archives/objective-c-property-basics.html )
+ * */
+
 
 
 
